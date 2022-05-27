@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra8.2/static/css/main.dbbb404d.css",
+    "main.js": "/ra8.2/static/js/main.e71dc6e1.js",
+    "index.html": "/ra8.2/index.html",
+    "main.dbbb404d.css.map": "/ra8.2/static/css/main.dbbb404d.css.map",
+    "main.e71dc6e1.js.map": "/ra8.2/static/js/main.e71dc6e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbb404d.css",
+    "static/js/main.e71dc6e1.js"
+  ]
+}
